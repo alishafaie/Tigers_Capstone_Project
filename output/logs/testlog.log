@@ -1,0 +1,111 @@
+2022-07-31 21:38:19,174 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-31 21:38:26,086 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-31 21:38:27,008 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-07-31 21:38:27,024 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktop tab to the cart started
+2022-07-31 21:38:29,420 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktop tab to the cart started
+2022-07-31 21:38:30,395 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktop tab to the cart FAILED
+2022-07-31 21:38:30,417 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-31 21:38:32,840 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-31 21:38:33,740 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-31 21:38:33,740 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to CANON EOS 5D item in Desktop tab started
+2022-07-31 21:38:36,119 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to CANON EOS 5D item in Desktop tab started
+2022-07-31 21:38:37,047 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to CANON EOS 5D item in Desktop tab FAILED
+2022-07-31 22:10:13,613 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 22:10:18,500 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 22:10:19,358 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 22:10:19,389 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 22:10:22,378 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 22:10:23,207 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 22:10:23,223 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 22:10:26,097 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 22:10:26,900 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 22:20:36,769 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 22:20:40,469 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 22:20:41,329 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 22:20:41,360 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 22:20:44,480 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 22:20:45,307 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 22:20:45,307 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 22:20:48,299 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 22:20:49,107 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 22:40:52,416 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 22:40:55,796 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 22:40:56,743 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 22:40:56,765 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 22:40:59,396 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 22:41:00,235 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 22:41:00,251 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 22:41:02,784 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 22:41:03,714 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:08:35,414 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:08:39,232 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:08:40,087 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 23:08:40,109 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:08:42,966 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:08:43,834 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 23:08:43,834 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:08:46,824 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:08:47,658 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:12:18,037 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:12:21,398 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:12:22,285 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 23:12:22,285 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:12:25,067 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:12:25,898 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 23:12:25,898 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:12:28,749 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:12:29,555 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:18:59,451 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:19:02,967 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:19:03,808 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 23:19:03,808 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:19:06,552 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:19:07,351 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 23:19:07,351 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:19:10,264 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:19:11,098 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:30:02,150 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-31 23:30:05,572 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-31 23:30:06,484 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change FAILED
+2022-07-31 23:30:06,498 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-31 23:30:09,373 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-31 23:30:10,260 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays FAILED
+2022-07-31 23:38:28,946 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:38:32,187 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:38:33,112 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 23:38:33,127 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:38:35,654 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:38:36,575 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 23:38:36,588 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:38:39,080 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:38:39,923 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:39:33,158 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:39:36,355 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:39:37,256 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 23:39:37,270 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:39:39,909 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:39:40,746 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 23:39:40,759 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:39:43,245 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:39:44,134 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:43:15,049 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:43:18,449 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 23:43:19,383 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 23:43:19,398 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:43:21,901 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 23:43:22,794 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 23:43:22,806 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:43:25,238 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 23:43:26,165 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 23:54:16,377 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-31 23:54:19,819 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-31 23:54:20,706 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-07-31 23:54:20,718 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-31 23:54:23,473 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-31 23:54:24,341 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-07-31 23:54:24,348 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-31 23:54:27,024 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-31 23:54:27,891 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-07-31 23:54:27,906 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-31 23:54:30,607 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-31 23:54:31,496 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 FAILED
